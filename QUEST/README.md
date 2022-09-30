@@ -3,7 +3,7 @@ just some shit avatars for bonelabs, they may not wrk at all, ive just tested if
 
 
 # Installation for QUEST
-1. If installing locally to Quest 2, connect the headset with a Link cable,
-2. Allow Files from the connected device when prompted in the headset, 
-3. then on the PC, navigate to:This PC\Quest 2\Internal shared storage\Android\data\com.StressLevelZero.BONELAB\files\Mods 
-4. copy the folder generated during the Pack Pallet process to it.
+1. connect the headset with a Link cable
+2. Allow Files from the connected device when prompted in the headset
+3. then on the PC, navigate to:This PC\Quest 2\Internal shared storage\Android\data\com.StressLevelZero.BONELAB\files\Mods
+4. copy the folder to it
