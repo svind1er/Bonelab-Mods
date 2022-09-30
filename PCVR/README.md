@@ -3,7 +3,7 @@ just some shit avatars for bonelabs, they may not wrk for you idk why, it works 
 
 
 # Installation for PC
-1. Copy folder named xxxx.xxxx (x should be name)
+1. Copy folder named xxxx.xxxx (x should be the name)
 2. WINDOWS + R 
 3. Type Appdata and click enter
 4. LocalLow > Stress Level Zero > BONELAB > Mods
