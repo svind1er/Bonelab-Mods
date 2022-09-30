@@ -1,5 +1,6 @@
 # Bonelabs-Avatars
-just some shit avatars for bonelabs, they may not wrk at all, ive just tested if weapons go on shoulders and hips n stuff
+just some shit avatars for bonelabs, they may not wrk at all, ive just tested if weapons go on shoulders and hips n stuff.
+Also have no fucking clue ab if quest shit works
 
 
 # Installation for PC
