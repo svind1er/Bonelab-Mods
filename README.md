@@ -5,11 +5,11 @@ Also have no fucking clue ab if quest shit works
 
 
 # Installation for PC
-1. Copy file.name
+1. Copy folder named xxxx.xxxx (x should be the name)
 2. WINDOWS + R 
 3. Type Appdata and click enter
 4. LocalLow > Stress Level Zero > BONELAB > Mods
-5. Paste file.name into mods folder
+5. Paste xxxx.xxxx into mods folder
 
 # Installation for QUEST
 1. connect the headset with a Link cable
