@@ -1,8 +1,4 @@
-# Bonelab-Avatars
-just some shit avatars for bonelabs, they may not wrk at all, ive just tested if weapons go on shoulders and hips n stuff.
-
-Also have no fucking clue ab if quest shit works
-
+# CUSTOM MAPS AND AVATARS
 
 # Installation for PC
 0. UNZIP or take the folder OUT OF THE ZIP
